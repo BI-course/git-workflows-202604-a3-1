@@ -16,8 +16,4 @@ Refer to the files in the order specified below for more details:
 
 - [lab_instructions_part1.md](lab_instructions_part1.md)
 - [lab_instructions_part2.md](lab_instructions_part2.md)
- HEAD
-Project lead: Member 5 — responsible for governance and audit.
-
-Project lead: Member 4 — responsible for overall coordination.
- origin/main
+Project Lead: Member4 (coordination) and Member 5 (governance and audit).
